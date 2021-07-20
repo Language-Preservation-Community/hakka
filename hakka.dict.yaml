@@ -17,11 +17,19 @@ min_phrase_weight: 100
 ...
 
 
+# newly added words
+𠊎	ngai2	50%
+𠊎好	ngai ho	50%
+你好冇	ngi ho mo	50%
+歡迎	fon ngiang
+你	ngi	50%
+你曉唔曉得	ngi hiau m hiau det	50%
+曉唔曉	hiau m hiau
+客家話	hak ka fa	50%
 
 # 來源於：薪典 http://www.syndict.com
 # 客語輸入法
 # 綜合口音
-
 㐁	tam53	50%
 㐁	tiam53	50%
 㐁舌	

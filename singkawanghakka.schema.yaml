@@ -1,0 +1,88 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: singkawanghakka
+  name: Singkawang Hakka 山口洋客譮
+  version: "2021.12.2"
+  author:
+    - Harry Lee
+  description: |
+    This is a Singkawang Hakka input method
+  dependencies:
+    - luna_pinyin
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - r10n_translator
+    - reverse_lookup_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+  algebra:
+    - derive/([123456])//         # 忽略声调
+    - derive/au/ao/         # 模糊音
+    - derive/s/sh/x         # 模糊音
+    - derive/j/y         # 模糊音
+    - derive/c/q/z/ch/zh         # 模糊音
+    - derive/ny/ng/nj         # 模糊音
+    - derive/k/kh/g         # 模糊音
+    - derive/b/v        # 模糊音
+    - derive/t/d/th        # 模糊音
+    - derive/m/ng        # 模糊音
+
+translator:
+  dictionary: singkawanghakka
+  prism: singkawanghakka
+  spelling_hints: 1
+  comment_format: &comment_rules
+    # 將聲調顯示成上標
+    - xlit/12345/¹²³⁴⁵/
+
+reverse_lookup:
+  dictionary: luna_pinyin
+  prefix: "`"
+  suffix: "'"
+  tips: 〔拼音〕
+  preedit_format:
+    - xform/([nljqxy])v/$1ü/
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "`[a-z]*'?$"

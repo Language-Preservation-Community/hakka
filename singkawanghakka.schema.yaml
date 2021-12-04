@@ -51,13 +51,20 @@ speller:
   algebra:
     - derive/([123456])//         # 忽略声调
     - derive/au/ao/         # 模糊音
-    - derive/s/sh/x         # 模糊音
+    - derive/s/sh         # 模糊音
+    - derive/s/x         # 模糊音
     - derive/j/y         # 模糊音
-    - derive/c/q/z/ch/zh         # 模糊音
-    - derive/ny/ng/nj         # 模糊音
+    - derive/c/zh         # 模糊音
+    - derive/c/ch         # 模糊音
+    - derive/c/z         # 模糊音
+    - derive/c/q         # 模糊音
+    - derive/ny/nj         # 模糊音
+    - derive/ny/nj         # 模糊音
     - derive/k/kh/g         # 模糊音
+    - derive/k/g         # 模糊音
     - derive/b/v        # 模糊音
     - derive/t/d/th        # 模糊音
+    - derive/t/th        # 模糊音
     - derive/m/ng        # 模糊音
 
 translator:

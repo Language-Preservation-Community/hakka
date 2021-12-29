@@ -16,7 +16,606 @@ max_phrase_length: 7
 min_phrase_weight: 100
 ...
 
-
+#A
+啊	a	#a
+阿	a	#Endearment/Adherement/attachment attached to a name usually
+恁	an	#very
+恁樣	an nyong	#like that
+哎呀	ai ya	#expression
+啊該	a kai	#there
+啊該析	a kai sak	#that side
+啊里	a li	#here
+啊里析	a li sak	#this side
+暗	am	#night
+恁痴樣	an ce jong	#bad behavior,irredeemable kind,to act foolishly, to act unnecessary,to carry themselves with bad attitude
+恁媸樣	an ce jong	#bad behavior,irredeemable kind,to act foolishly, to act unnecessary,to carry themselves with bad attitude
+傲慢	au man	#bad behavior, naughty,arrogant
+恁漫	an man	#bad behavior, naughty
+啊位	a bui	#where
+阿妹	a moi	#girl
+阿哥	a ko	#elder brother,honorific
+阿姆	a me	#mother
+阿姐	a ce	#older sister,honorific for older female
+阿哥	a ko	#older brother,honorific
+阿舅	a kiu	#maternal uncle
+阿伯	a pak	#father older brother
+阿叔	a suk	#father's younger brother, paternal uncle, honorary for stranger
+阿弟	ti	#young man
+阿爸	a pa	#father
+阿姑	a ku	#paternal aunt, husband's sister
+阿姨	ji	#maternal aunt,honorary for stranger female
+阿爸	a pak	#father
+阿媽	a mak	#mother
+阿媽	a ma	#mother
+阿婆	po	#grandma
+阿公	a kung	#grandfather
+恁樣形	an nyong hin	#like that
+恁樣形	an nyiong hin	#like that
+#
+# B,V
+譮	boi	#language,speak
+會	boi #can,possible,will,capable of
+烏	bu #black,crow
+烏色	bu set	#black,crow
+萬	ban	#ten thousand   
+黄	bong	#yellow,orange
+黄色	bong set	#yellow,orange
+王	bong	#king
+膴身	bu sin	#body
+枉	bong	#unjust,crooked,in vain,to twist
+哇到	ba to	#presumed,thought,similar to 以爲
+哇著	ba to	#presumed,thought,similar to 以爲
+恁靚	an ciang	#very pretty,beautiful
+#
+#C,Q,Z
+做	co	#Make / Bikin
+做麼	co mai	#Why
+做麼	to mai	# variant of co mai but lazy pronunciation
+做麼個	co ma kai	#   What are you making / Why
+做麼個	co ma ai	#   What are you making / Why
+做得	co tet	#	done, completed, correct!(expression)
+就係	ciu he	#	actually
+試著	ci do	#to feel
+像	ciong	#to resemble
+隻	cak	#classifier
+冊	cak	#classifier for book
+早	co	#morning
+著	cok	#correct
+晝	ciu	#afternoon
+成	cang	#completory particle that require an completed action e.x “等下，涯食飯先，合下成合爾講譮”
+從	cung	#from
+就	ciu	#to engage in
+揫	ciu #完，habis, run out of
+就係	ciu he	#exactly,actually
+真係	cin he	#really
+全部	cien pu	#all,whole,entire,complete
+在	coi	#to be in, to be doing
+菜	coi	#dish,vegetable
+出	cut	#go out
+出門	cut mun	#go outside
+脆	ce	#bad quality,fragile
+媸	ce	#ugly,irredeemable
+痴	ce	#imbecile,foolish
+出世	cut se	#to born, to be born onto this world
+錢	cien	#money
+前	cien	#front
+前面	cien mien	#front
+長	cong	#long(length),length
+轉	con	#go back home,return
+子	ci	#child
+仔	cai	#child
+著鞋	cok hai	#wear shoe/sandal
+七	cit	#7
+走	ceu	#to go
+千	cien	#a thousand
+千萬	cien ban	#ten million
+自家	cit ka	#self,own
+自家	ci ka	#self,own
+自家	ce ka	#self,own
+青	ciang	#green,blue(?) 
+青色	ciang set	#green,blue(?) 
+剪	cien	#to cut,trim
+剪刀	cien to	#scissor
+出來	cut loi	#to bring out something
+尋	cim	#to search
+姐姐	ce ce	#older sister,honorary for older female
+姐	ce	#older sister,honorary for older female
+做事	co se	#work,job
+做生理	co sen li	#to do business
+助理	cu li	#help,assist,to care for
+助	cu	#help,assist
+靚	ciang	#pretty,beautiful
+#
+#T,D
+得	tet	#   Completory particle, too(too much)
+兜	teu	#plural particle
+大	tai	#big
+大家	tai ka	#everyone
+當晝	tong ciu	#afternoon
+肚	tu	#belly,inside
+肚屎	tu si	#belly
+肚子	tu si	#variant of 肚屎,belly
+肚落	tu lok	#inside
+對面	tui mien	#front,facing
+等	ten	#wait,equal,to follow,action in progress marker
+等下	ten ha	#wait, hold on
+等手	ten siu	#help,helping hand,help out
+聽	tang	#hear,listen
+聽識	tang sit	#to be able to hear and understood
+讀	tuk	#read,study
+聽得識	tang tet sit	#to be able to hear and understood
+帶	tai	#to bring with
+帶轉	tai con	#to bring home,bring back
+多鐳	to lui	#how much?
+大樹色	tai su set	#brown
+大樹	tai su	#big tree,big log,big wood
+大番薯	tai fan su	#idiot
+豆	teu	#bean
+豆腐	teu fu	#tofu
+豆干	teu kon	#dry tofu
+豆腐乾	teu fu kon	#steamed/braised tofu
+得人惱	tet nyin nau	#very dislikeable,unlikeable,to be hated by many
+東西	tung si	#things
+知	ti	#to know
+弟	tai	#younger brother
+弟	ti	#young man
+得人驚	tet nyin kiang	#scary person
+得人惜	tet nyin siak	#to be loved by many, loveable,cute
+到	to	#completed action particle
+到	teu	#to arrive,to go toward
+多	to	#much
+島	to	#island
+刀	to	#knife
+著	to	#completory action particle;
+都	tu	#all;whole;entire
+倒	to	#to fall;lie down;to turn around opposite;
+甜	tiam	#sweet;
+恬	tiam	#quiet;calm;peaceful;
+點	tiam	#hour;time;
+店	tiam	#store;shop;
+頭	teu	#head;
+頭那	teu na	#head;
+頭那毛	teu na mo	#head;
+糖	tong	#sugar;
+湯	tong	#soup;/kuah
+唐人	tong nyin	#chinese people;
+唐譮	tong boi	#chinese language;chinese speak;
+唐	tong	#Tang dynasty that's popular with southern chinese;
+堂	tong	#large room; lectures classifier; school;
+甸	tien	#suburb;outskirt;
+#
+##  E
+個	e	#general classifier
+歐	eu	#europe
+歐市	eu si	#europe;west
+歐市人	eu si nyin	#european;westerner;foreigner;white people
+嘔	eu	#to vomit;
+嘔掖	eu je	#the kind that cause people to vomit
+嘔核	eu het	#vomited
+嘔血	eu hiet	#vomit blood;
+嘔出來	eu cut loi	#vomit it out
+#
+#F
+歡喜	fon hi	#	Happy, / Senang
+紅	fung	#red
+紅色	fung set	#red
+番薯	fan su	#sweet potato;
+番	fan	#non-chinese;outsider;foreign;
+番人	fan nyin	#non-chinese;outsider;foreigner;
+粉	fun	#powder;
+粉紅色	fun fung set	#pink;
+紅粉色	fung fun set	#pink;
+#
+#H
+還	han	#	Still/Sedang, Masih
+係	he	#	Is,Are,Yes/Adalah,ya
+去	hi	#	Go/Pergi
+起	hi	#	To initiate（action）/Inisiasi（aksi)
+好	ho	#good;right(pleaing for agreement);
+客家	hak ka	#hakka；visit house;
+客家譮	hak ka boi	#hakka language;hakka speak
+客譮	hak boi	#slang for 客家譮 hak ka boi
+下晝	ha ciu	#afternoon evening/sore
+核	het	#completory particle e.x si het(died) eu het(puked)
+曉	hiau	#capable of; can;
+下	ha	#down
+行	hang	#walk
+行路	hang lu	#walk
+鞋	hai	#shoes;sandals
+形	hin	#to appear;form;ex 恁樣形（an nyong hin)
+型	hin	#type;model;mold;kind
+暈	hin	#confused;headache
+客	hak	#guest; to be a guest; to visit;
+客氣	hak hi	#modest;courteous;polite;formal
+係講	he kong	#if;
+學堂	hok tong	#school;
+學	hok	#learn;
+後生	heu sang	#young;young adult;
+後	heu	#back;backward;
+#
+#J，Y
+有	jiu	# have
+樣	jong	#kind;type;appearance;
+養	jong	#to raise; to conceive; to birth; to nurture;
+用	jung	#to use;
+佣	jung	#to commission;to employ
+庸	jung	#to require;need
+這	jia	#this
+一	jit	#one
+音	jim	#sound
+一隻	jit cak	#one item
+意思	ji si	#meaning;intention
+一樣	jit jong	#one kind;
+應該	jing goi	#ought to;should
+夜	ja	#night;
+一滴	jit tit	#a little
+掖	je	#kind;type;rank;brand/jenis
+蝓	je	#snail;
+蝓螺	je lo	#snail;
+弛	je	#to be too relaxed;wasting time;lazy
+弛弛	je je	#to be too relaxed;wasting time;lazy
+億	ji	#hundred million
+越南	jet nam	#vietnam
+越南	yet nam	#vietnam
+銀	yin	#silver
+也	ya	#too;also;
+以	ji	#based on;
+幾多	jit to	#how much
+銀	jin	#silver
+也乜	ja	#too;also;
+也乜	ja me	#too;also;
+乜	me	#too;also;
+也	ya	#too;also;
+姨	ji	#maternal aunt;
+姨姨	ji ji	#maternal aunt;
+洋	jong	#ocean;vast
+冤枉	jan bong	#wronged;pitiable;injustice;pity
+冤枉	jen bong	#wronged;pitiable;injustice;pity
+冤枉	jian bong	#wronged;pitiable;injustice;pity
+冤枉	jien bong	#wronged;pitiable;injustice;pity
+冤枉	yan bong	#wronged;pitiable;injustice;pity
+冤枉	yen bong	#wronged;pitiable;injustice;pity
+冤枉	yien bong	#wronged;pitiable;injustice;pity
+冤枉	yian bong	#wronged;pitiable;injustice;pity
+冤枉	ian bong	#wronged;pitiable;injustice;pity
+冤枉	ien bong	#wronged;pitiable;injustice;pity
+冤	jan	#injustice;wrong;
+冤	jen	#injustice;wrong;
+冤	jian	#injustice;wrong;
+冤	jien	#injustice;wrong;
+冤	yan	#injustice;wrong;
+冤	yen	#injustice;wrong;
+冤	yien	#injustice;wrong;
+冤	yian	#injustice;wrong;
+冤	ian	#injustice;wrong;
+冤	ien	#injustice;wrong;
+如果	ji go	#if;
+#
+#K,G
+佢	ki	#He,She,It/Dia
+佢	kia	#He,She,It， His/Dia，punya dia
+據	ki	#He,She,It/Dia
+據	kia	#He,She,It， His/Dia，punya dia
+撳	kim	#To close something, to turn off, to press
+騎	ki	#To ride something/Mengendarai sesuatu
+開	koi	#open
+開門	koi mun	#open door, open entrance
+講	kong	#speak;
+講譮	kong boi	#to conversate;speak;
+今	kin	#now;current
+今下	kin ha	#now;current
+今這下	kin lia ha	#now;current
+個	kai	#general classifier
+口	keu	#mouth;
+口	heu	#mouth;
+該	kai	#that
+該	koi	#should
+該隻	kai cak	#that one
+該析	kai sak	#that side
+合	kak	#with (teochew loanword)
+佮	kak	#variant of 合 from teochew kap (teochew loanword)
+合下	kak ha	#later
+佮下	kak ha	#later
+見	kien	#to see;meet
+間	kien	#a room;
+間肚	kien tu	#a room;inside a room;bedroom
+久	kiu	#long(time)
+幾時	kit si	#what time
+幾	ki	#how much
+幾多	ki to	#how much
+遽	kiak	#quick
+遽滴	kiak tit	#hurry up
+看	kon	#to see
+觀	kon	#to watchover;
+腳	kiok	#leg;foot
+過	ko	#to cross over;experienced action marker;
+國	keh	#country
+國	kuet	#country
+國	kwet	#country
+國	ket	#country
+國	kek	#country
+九	kiu	#9
+狗	keu	#dog
+客	kek	#variant of hak客； guest; to be a guest; to visit;
+客	kiet	#variant of hak客； guest; to be a guest; to visit;
+可以	ko ji	#can;maybe;possible;permit;
+可能	ko nen	#can;maybe;possible;permit;
+可	ko	#can;maybe;possible;permit;
+金	kim	#gold
+金	kin	#gold
+今下	kin ha	#right now;
+舅姆	kiu me	#maternal uncle's wife
+舅	kiu	#maternal uncle;
+哥	ko	#older brother;honorary;
+哥哥	ko ko	#older brother;honorary;
+牯	ku	#male something; e.x 噭包牯 (kiau pau ku) usually used as insult; opposite of 嫲 ma for female;
+噭	kiau	#cry;
+噭包牯	kiau pau ku	#crybaby;
+雞	kai	#chicken;
+雞嫲	kai ma	#chicken;
+驚	kiang	#to be scared of;
+敢	kam	#to dare;
+頸	kiang	#neck;
+姑	ku	#paternal aunt; husband's sister;
+姑姑	ku ku	#paternal aunt; husband's sister;
+故事	ku si	#stories;legends;storytale;past story;
+強	kiang	#great;good;powerful;better;amazing;(teochew loanword)
+勥	kiang	#great(teochew loanword)
+界	kai	#boundary;area;extent;
+介紹	kai sau	#to show off; to introduce;
+介	kai	#between;to introduce
+公	kung	#grandfather;public;honorific;
+公公	kung kung	#grandfather;
+孔	kung	#hole;
+坤甸	kun tien	#pontianak city;
+坤	kun	#pontianak city;
+#
+#L
+這	lia	#this;
+里析	li sak	#this side
+里隻	li cak	#this one
+裡肚	li tu	#inside
+裏析	li tu	#inside
+里	li	#place;classifier for distance;
+裡	li	#inside;
+裏	li	#inside(variant of 裡)
+落	lok	#to drop;to fall;to get in;to mix in;
+螺	lo	#snail;
+倈	lai	#boy
+倈子	lai ci	#boy
+六	liuk	#6
+來	loi	#come
+鐳	lui	#money;
+藍	lam	#blue
+藍色	lam set	#blue
+綠	luk	#green
+綠	liuk	#green
+綠色	luk set	#green
+綠豆	luk teu	#mung bean/kacang hijau
+老伯姆	lo pak me	#elderly lady;
+老伯	lo pak	#old man;
+老	lo	#old;
+老弟	lo tai	#younger brother;
+老妹	lo moi	#younger sister; girl;
+禮	li	#gift;ceremony;etiquette;courtesy
+老婆	lo po	#wife;
+老公	lo kung	#husband;
+理	li	#renovate;handle things;take care of;
+路	lu	#road;
+#
+#M
+無	mo	#not;question particle;
+咩	me	#not;question particle;
+嘸	me	#not;question particle;
+慢	man	#slow
+漫	man	#to be free;naughty
+面	mien	#noodle;face;front
+吂	mang	#haven't
+麼儕	ma sa	#who
+麼個	ma kai	#what
+麼個	ma ai	#what
+麼	mai	#what
+麼	ma	#what
+妹	moi	#girl
+妹子	moi ci	#girl
+妹仔	moi cai	#girl
+米	mi	#uncooked rice grain;
+唔	m	#not;
+唔愛	m oi	#don't want;dont;
+毋愛	m oi	#don't want;dont;
+毋	m	#not;
+唔使	m si	#no need;
+毋使	m si	#no need;
+明白	min pak	#to understand;
+明	min	#next;
+明年	min nyien	#next year;
+姆	me	#mother;
+嫲	ma	#female something; e.x 雞嫲 (kai ma) usually used as insult; opposite of 牯 ku for male;
+唔敢	m kam	#to not dare;dont have the guts to do it;
+唔驚	m kiang	#to not be scared off;
+毋敢	m kam	#to not dare;dont have the guts to do it;
+毋驚	m kiang	#to not be scared off;
+媽	ma	#mother;
+媽	mak	#mother;
+媽	ma	#mother;
+馬	ma	#horse;
+罵	ma	#to scold;to curse;
+物	met	#to do something; to mess with something;similar to 做；(teochew loanword)
+物麼	met mai	#to do something;similar to 做；(teochew loanword)
+物麼個	met ma ai	#to do something;similar to 做；(teochew loanword)
+物麼個	met ma kai	#to do something;similar to 做；(teochew loanword)
+毛	mo	#hair;feather;
+莫	mo	#do not;
+莫	mmo	#do not;
+唔莫	m mo	#do not;
+毋莫	m mo	#do not;
+名	miang	#name;
+#
+#N
+𠊎	ngai	#	I，My
+涯	ngai	#	I，My
+涯	nga	#	I，My
+涯個	ngai e	#	My, mine
+涯個	ngai kai	#	My, mine
+涯個	nga kai	#	My, mine
+爾	nyi	#	You，Your
+爾	nyia	#	You，Your
+爾	nya	#	You，Your
+你	nyi	#	You，Your
+你	nyia	#	You，Your
+你	nya	#	You，Your
+爾個	nyi kai	#	Your
+爾個	nyia kai	#	Your
+爾個	nya kai	#	Your
+爾個	nyi e	#	Your
+你個	nyi kai	#	Your
+你個	nyia kai	#	Your
+你個	nyi e	#	Your
+爾好	nyi ho	#Hello;how are you?
+你好	nyi ho	#Hello;how are you?
+仰般	nyong pan	#how;
+仰般	nyong pen	#how;
+樣	nyong	#apperance;how
+爾兜	nyi teu	#you(plural);
+爾兜儕	nyi teu sa	#you(plural);
+你兜	nyi teu	#you(plural);
+二	nyi	#two
+涯想	ngai siong	#i think
+涯想到	ngai siong to	#i thought;
+涯想著	ngai siong to	#i thought;
+哪	nai	#where;which
+哪位	nai bui	#where
+哪儕	nai sa	#who
+五	ng	#five
+魚	ng	#fish
+南	nam	#south
+男	nam	#male
+人	nyin	#person
+肉	nyuk	#meat
+肉	nyiuk	#meat
+牙	nga	#tooth;teeth;jaw;
+惱	nau	#to hate;
+銀	nyiun	#silver
+銀	nyien	#silver
+戇	ngong	#dumb;stupid;
+㦙	nga	#dumb;stupid;(teochew loanword)
+愚	nga	#dumb;stupid;(teochew loanword)
+戇牯	ngong ku	#stupid kid;stupid boy;
+㦙牯	nga ku	#stupid kid;stupid boy;(teochew loanword)
+軟	nyon	#soft
+軟	nyion	#soft
+那	na	#head suffix;
+耳公	ngi kung	#ear;
+耳	ngi	#ear;handle;
+樣形	nyong hin	#like that;
+兒	nga	#child;
+兒	ji	#child;
+#
+#O
+愛	oi	#   Want;Love
+屙尿	o nyiau	#   To pee
+屙尿	o nyau	#   To pee
+屙屎	o si	#   To defecate
+屙	o	#to defecate; to piss
+安	on	#to be called;
+按	on	#
+孲	o	#young
+嬰	o	#young;infant;
+嬰兒	o nga	#baby;infant;
+嬰兒子	o nga ci	#baby;infant;
+噢	o	#broken;breakdown;filler particle;
+噢核	o het	#broken;
+#
+#P,B
+放	piong	##   To place something somewhere; to set aside something for later
+半夜	pan ja	#midnight
+變	pien	#change
+騙	pien	#to cheat;swindle
+騙人	pien nyin	#to cheat;swindle;to trick people
+八	pat	#8
+百	pak	#a hundred;
+百萬	pak ban	#million
+白	pak	#white
+白色	pak set	#white
+肥	pui	#fat;
+伯姆	pak me	#wife of father's elder brother;
+伯	pak	#parent elder brother; e.x大伯，二伯
+爸	pa	#father;
+爸	pak	#father;
+爸爸	pa pa	#father;
+婆	po	#grandma;
+婆婆	po po	#grandma;
+屁	pi	#fart;
+鼻	pi	#nose;
+鼻公	pi kung	#nose;
+皮	pi	#skin;
+分	pun	#give;minute;divide;by;被
+#
+#S,X
+生	sang	#live;born
+生	sen	#live;born
+生	sin	#live;born
+寫	sia	#write
+字	si	#characters;letter;alphabet
+詞	si	#word
+子	si	#child;particle
+寫字	sia si	#to write
+像	siong	#figure;shape;form;resemble;
+聲	sang	#sound;voice
+聲音	sang jim	#sound;noise;voice
+儕	sa	#classifier for people
+山口洋	san keu jong	#singkawang city
+山	san	#forest;mountain;hill;
+想	siong	#think
+想到	siong to	#to think;thought about
+想著	siong to	#to think;thought about
+析	sak	#side
+相打	siong ta	#to mutually hit eachother;fight
+生趣	sen ci	#funny;cute;interesting
+生趣	sien ci	#funny;cute;interesting
+識	sit	#to know;to recognize;to remember
+食	sit	#eat
+食飯	sit fon	#eat
+三	sam	#three
+四	si	#four
+死	si	#dead;death
+十	sip	#10
+色	set	#color
+兆	sau	#trillion
+兆	sau	#trillion
+自家	sit ka	#self;own
+使	si	#to need;to employ;
+樹	su	#wood;log;tree;
+樹皮	su pi	#bark;
+書	su	#book;
+薯	su	#potato;
+誚	sau	#to tailor;
+𤍒	sau	#hot;
+韶早	sau co	#tomorrow;
+韶	sau	#beautiful;
+瘦	seu	#thin;skinny;to lose weight;
+叔姆	suk me	#wife of father's younger brother;
+叔	suk	#father's younger brother; paternal uncle; honorary for stranger;
+惜	siak	#to love;to cherish;/sayang
+事	si	#matters;affair;thing;
+事	se	#job;affair;matters;
+世	se	#life;
+斯	si	#loanword;is;for me;whereas;
+斯	sih	#loanword;is;for me;whereas;
+市	si	#city;place;
+小禮	siau li	#shy;embarassed;(teochew loanword) 
+小	siau	#small;
+時	si	#time
+身	sin	#body;
+世界	se kai	#world;
+紹	sau	#to continue;carry on;make contact between;
+生事	sang se	#problem;matters;affairs;/masalah;urusan
+手	siu	#hand;
+水	sui	#water;
+生理	sen li	#business;
+細	se	#small;
+細人	se nyin	#child;
+細貨	se fo	#child;
 # newly added words
 𠊎	ngai2	50%
 𠊎好	ngai ho	50%
@@ -83,15 +682,9 @@ min_phrase_weight: 100
 想著	siong do
 該	gai
 啊該	a gai
-阿該	a gai
 啊該析	a gai sak
-阿該析	a gai sak
-阿裏	a li
-阿里	a li
 啊裏	a li
 啊里	a li
-阿裏析	a li sak
-阿里析	a li sak
 啊裏析	a li sak
 啊里析	a li sak
 該隻	gai cak
@@ -103,6 +696,21 @@ min_phrase_weight: 100
 應該	jing goi
 涯想到	ngai siong do
 涯想著	ngai siong do
+早	co
+晝	ciu
+晝	ciu
+當晝	dong ciu
+下晝	ha ciu
+暗	am
+夜	ja
+半夜	ban ja
+做	co
+做麼個	co ma gai
+合	gak
+合下	gak ha
+成	cang
+會	boi
+一滴	jit dit
 
 # 來源於：薪典 http://www.syndict.com
 # 客語輸入法

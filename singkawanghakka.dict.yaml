@@ -182,6 +182,7 @@ min_phrase_weight: 100
 唐譮	tong boi	#chinese language;chinese speak;
 唐	tong	#Tang dynasty that's popular with southern chinese;
 堂	tong	#large room; lectures classifier; school;
+甸	tien	#suburb;outskirt;
 #
 ##  E
 個	e	#general classifier
@@ -261,9 +262,9 @@ min_phrase_weight: 100
 以	ji	#based on;
 幾多	jit to	#how much
 銀	jin	#silver
-也呣	ja	#too;also;
-也呣	ja me	#too;also;
-呣	me	#too;also;
+也乜	ja	#too;also;
+也乜	ja me	#too;also;
+乜	me	#too;also;
 也	ya	#too;also;
 姨	ji	#maternal aunt;
 姨姨	ji ji	#maternal aunt;
@@ -295,7 +296,7 @@ min_phrase_weight: 100
 佢	kia	#He,She,It， His/Dia，punya dia
 據	ki	#He,She,It/Dia
 據	kia	#He,She,It， His/Dia，punya dia
-禁	kim	#To close something, to turn off, to press
+撳	kim	#To close something, to turn off, to press
 騎	ki	#To ride something/Mengendarai sesuatu
 開	koi	#open
 開門	koi mun	#open door, open entrance
@@ -305,7 +306,8 @@ min_phrase_weight: 100
 今下	kin ha	#now;current
 今這下	kin lia ha	#now;current
 個	kai	#general classifier
-口	keu	#
+口	keu	#mouth;
+口	heu	#mouth;
 該	kai	#that
 該	koi	#should
 該隻	kai cak	#that one
@@ -365,6 +367,8 @@ min_phrase_weight: 100
 公	kung	#grandfather;public;honorific;
 公公	kung kung	#grandfather;
 孔	kung	#hole;
+坤甸	kun tien	#pontianak city;
+坤	kun	#pontianak city;
 #
 #L
 這	lia	#this;
@@ -418,8 +422,10 @@ min_phrase_weight: 100
 米	mi	#uncooked rice grain;
 唔	m	#not;
 唔愛	m oi	#don't want;dont;
+毋愛	m oi	#don't want;dont;
 毋	m	#not;
 唔使	m si	#no need;
+毋使	m si	#no need;
 明白	min pak	#to understand;
 明	min	#next;
 明年	min nyien	#next year;
@@ -427,6 +433,8 @@ min_phrase_weight: 100
 嫲	ma	#female something; e.x 雞嫲 (kai ma) usually used as insult; opposite of 牯 ku for male;
 唔敢	m kam	#to not dare;dont have the guts to do it;
 唔驚	m kiang	#to not be scared off;
+毋敢	m kam	#to not dare;dont have the guts to do it;
+毋驚	m kiang	#to not be scared off;
 媽	ma	#mother;
 媽	mak	#mother;
 媽	ma	#mother;
@@ -440,6 +448,8 @@ min_phrase_weight: 100
 莫	mo	#do not;
 莫	mmo	#do not;
 唔莫	m mo	#do not;
+毋莫	m mo	#do not;
+名	miang	#name;
 #
 #N
 𠊎	ngai	#	I，My
@@ -507,7 +517,8 @@ min_phrase_weight: 100
 屙尿	o nyau	#   To pee
 屙屎	o si	#   To defecate
 屙	o	#to defecate; to piss
-按	on	#to be called;
+安	on	#to be called;
+按	on	#
 孲	o	#young
 嬰	o	#young;infant;
 嬰兒	o nga	#baby;infant;
